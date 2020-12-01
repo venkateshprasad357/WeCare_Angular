@@ -1,0 +1,54 @@
+#top-message{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.login-signup{
+    height: 350px;
+    width: 350px;
+    background-color: black;
+}
+
+#coach-login-signup{
+    float: left;
+    margin-left: 280px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#user-login-signup{
+    float: right;
+    margin-right: 280px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#coachImage{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+#coach-login-btn{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#coach-join-btn{
+    width: 80%;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#userImage{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+#user-login-btn{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#user-join-btn{
+    width: 80%;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#coachloginroute{
+    color: white;
+}

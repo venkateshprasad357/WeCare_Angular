@@ -1,0 +1,54 @@
+#coach-signup-form-div{
+    height: 500px;
+    width: 800px;
+    background-color: black;
+    color: white;
+    margin-top: 40px;
+    margin-left:250px;
+    margin-right: 250px;
+    border-radius: 10px;
+
+}
+#signup-top-image{
+    margin-left: 230px;
+    float: left;
+    padding-top: 30px;
+}
+
+#signup-top-message{
+    text-align: center;
+    padding-top: 30px;
+    float: right;
+    margin-right: 280px;
+}
+
+#signup-form{
+    margin-top: 100px;
+}
+
+#signup-left-side{
+    float: left;
+    margin-left: 50px;
+}
+
+#signup-right-side{
+    float: right;
+    margin-right: 50px;
+}
+
+#name,#dob,#mobile-number{
+    width: 300px;
+    border-radius: 5px;
+}
+
+#password,#speciality{
+    width: 300px;
+    border-radius: 5px;
+}
+
+#register-btn{
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    width: 300px;
+}
